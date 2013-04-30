@@ -1,0 +1,3 @@
+I personally like all my LaTeX files wrapped at about 80 columns, with rare exceptions. Of course, I track them all with Git. I use Vim, so it’s really easy to rewrap a paragraph whenever I add or delete content from it. The sad thing is, it totally screws up my diffs!
+
+Have you ever tried looking at the history for any page in Wikipedia? It’s beautiful, intuitive, and word-centered. Forget about lines, they’re not suitable for text. Words, however, are.
